@@ -1,16 +1,16 @@
-# dti_like_project
+# dti_like_project (DTI Cake Shop)
 
-A new Flutter project.
+Create by : Chanintorn Chalermuk DTI-SAU
 
-## Getting Started
+## Screen UI
 
-This project is a starting point for a Flutter application.
+<!-- ![Screenshot_1707379977](https://github.com/chalermsukc/dti_like_project/assets/89175047/f91ec2e9-9ae3-40c6-9cf8-f1c6b0c4e644) -->
+<img src="https://github.com/chalermsukc/dti_like_project/assets/89175047/f91ec2e9-9ae3-40c6-9cf8-f1c6b0c4e644" width="150px">
 
-A few resources to get you started if this is your first Flutter project:
+<!-- ![Screenshot_1707379980](https://github.com/chalermsukc/dti_like_project/assets/89175047/2fd20eba-d186-4d2a-bcac-71a687ca297c) -->
+<img src="https://github.com/chalermsukc/dti_like_project/assets/89175047/2fd20eba-d186-4d2a-bcac-71a687ca297c" width="150px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br><br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ![Screenshot_1707379984](https://github.com/chalermsukc/dti_like_project/assets/89175047/4ba3895c-602f-4bdd-ab5b-145df227bcf8) -->
+<img src="https://github.com/chalermsukc/dti_like_project/assets/89175047/4ba3895c-602f-4bdd-ab5b-145df227bcf8" width="150px">
